@@ -79,3 +79,31 @@ $29/mo
 Pirority Listing
 Unlimited Matches & Messages
 Unlimited App Usage
+
+
+## Technologies Used
+
+- Bootstrap
+- HTML
+- CSS
+
+## Getting Started
+
+To get a copy of this project up and running on your local machine, follow these steps:
+
+1. Clone the repository to your local machine using the command `git clone https://github.com/your-username/your-repository.git`
+2. Navigate to the project directory using the command `cd your-repository`
+3. Open the index.html file in your preferred browser.
+
+## Responsive Design
+
+This website uses Bootstrap for responsive design, which means that it will adjust its layout based on the screen size of the device it is being viewed on. This makes it easy to view the website on a variety of devices, including desktops, tablets, and mobile phones.
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
